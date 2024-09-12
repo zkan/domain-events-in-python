@@ -1,1 +1,1 @@
-# domain-events-in-python
+# Domain Events in Python
